@@ -1,0 +1,19 @@
+{
+  "name": "calculator-adity",
+  "version": "1.0.0",
+  "description": "Calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adity",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diti077/Calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diti077/Calculator/issues"
+  },
+  "homepage": "https://github.com/diti077/Calculator#readme"
+}
